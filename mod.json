@@ -1,0 +1,9 @@
+{
+    "displayName": "Project Hepheastus",
+    "name": "Ph",
+    "author": "Iv9380",
+    "description": "mod that inspired by horizon zero dawn and horizon forbidden west and also their dlc's",
+    "version": "infdev",
+    "minGameVersion": 145,
+    "java": true
+    }
